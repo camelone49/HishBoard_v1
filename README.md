@@ -6,6 +6,7 @@ The Board is done using KiCad and is designed to meet my special requirements:
   2. Can switch automatically between 3 devices that are saved on the board
   3. Mechanical Switches (Blue in My Case)
   4. Using 3.7V Batteries (chargable), to not have to buy new one-time use batteries all the time
+  5. LEDs for extra performance, as widely known
 
 What is missing:
   1. 3D CAD File (todo)
@@ -13,6 +14,13 @@ What is missing:
   3. Materials List
 
 Some Pictures:
+
+(1): PCB Mode
 ![Image](https://github.com/user-attachments/assets/47ce2481-0cf9-4361-afeb-9b69acc63ee5)
+
+(2): 3D Rendering
+
 ![Image](https://github.com/user-attachments/assets/24391f3d-0e56-4823-b7a3-e40934910bca)
+
+(3): Schematic without Key Matrix and Electrical Stuff
 ![Image](https://github.com/user-attachments/assets/04f0cbe2-288f-480d-b600-7f3525ae4fb6)
