@@ -11,3 +11,8 @@ What is missing:
   1. 3D CAD File (todo)
   2. Arduino Code (todo)
   3. Materials List
+
+Some Pictures:
+![Image](https://github.com/user-attachments/assets/47ce2481-0cf9-4361-afeb-9b69acc63ee5)
+![Image](https://github.com/user-attachments/assets/24391f3d-0e56-4823-b7a3-e40934910bca)
+![Image](https://github.com/user-attachments/assets/04f0cbe2-288f-480d-b600-7f3525ae4fb6)
